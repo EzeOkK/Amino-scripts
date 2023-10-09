@@ -17,7 +17,7 @@ import os
 os.system("pip install amino.fix") #Delete this part after running the code once.
 ````
 
-If you have everything installed correctly, try this:
+If there is an error even though you do this, do this:
 
 **Terminal:**
 ````py

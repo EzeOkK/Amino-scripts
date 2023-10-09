@@ -1,4 +1,4 @@
-start()import aminofix as amino
+import aminofix as amino
 import time
 from concurrent.futures import ThreadPoolExecutor
 

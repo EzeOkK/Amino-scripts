@@ -18,8 +18,8 @@ print(
 
 client = amino.Client()
 
-email = "j7primehfif@gmail.com"
-password = "Botamino123"
+email = "you@gmail.com"
+password = "senha123"
 client.login(email=email, password=password)
 
 link_info = client.get_from_code(input("-- User link::: "))
